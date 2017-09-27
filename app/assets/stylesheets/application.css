@@ -73,7 +73,7 @@ input[type="text"], input[type="number"]{
 }
 
 .pomodoro-estimate{
-  display: inline-block
+  display: inline-block;
   font-weight: bold;
   color: #F44336;
   background-color: #F5F5F5;
